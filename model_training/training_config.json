@@ -1,0 +1,15 @@
+{
+    "dataset_path": "datasets/example_dataset",
+    "root_path": "/shared/nop/pool009/mhagen", 
+    "model_name": "my_model", 
+    "latent_width": 64, 
+    "num_processor_blocks": 10, 
+    "batch_size": 1, 
+    "max_epochs": 500, 
+    "patience": 25, 
+    "learning_rate": 0.0005, 
+    "use_layer_norm": true, 
+    "try_device": "cuda", 
+    "min_rel_delta": 0.0005, 
+    "accumulation_steps": 1
+}
