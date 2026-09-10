@@ -1,0 +1,7 @@
+{
+    "dataset_name": "test",
+    "split": "test",
+    "sample_name": "HT_overheating_tensilebar",
+    "target_instance_name": "TI64_OVERHEATINGV2-1",
+    "step_name": "HT_SLM"
+}
