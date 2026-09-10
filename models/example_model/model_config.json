@@ -1,0 +1,14 @@
+{
+    "training_dataset": "example_dataset", 
+    "model_name": "example_model", 
+    "max_epochs": 500, 
+    "patience": 25, 
+    "batch_size": 1, 
+    "use_layer_norm": true, 
+    "try_device": "cuda", 
+    "min_rel_delta": 0.0005, 
+    "latent_size": 64, 
+    "num_processor_blocks": 10, 
+    "learning_rate": 0.0005, 
+    "accumulation_steps": 1
+}
