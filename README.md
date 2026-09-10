@@ -1,4 +1,4 @@
-# Title
+# PBF-MeshGraphNet
 
 This folder is a cleaned-up version of the code I wrote for NLR as part of my three month internship. The goal of this project was to produce a proof of concept showing how machine learning might be used for the engineers in the AVMC group. The project then became using graph neural networks, specifically meshgraphnets, to predict the peak temperature reached across a part printed using Laser Powder Bed Fusion (LPBF).
 
